@@ -1,0 +1,12 @@
+s111:pass:Sabra Dodgson:0: :BSC1200:4:false
+s112:pass:William Lutz:0: :BSC1200:4:false
+s113:pass:James Ghosah:0: :BIT1024:4:false
+l111:pass:David Koiral:1:ISYS3000: : : 
+l112:pass:Tony Luke:1:COSC1000: : : 
+l113:pass:Rajar Cocker:1:COSC4000: : : 
+p111:pass:Robert Dowling :2: : : : 
+p112:pass:Michael Chen:2: : : :
+p113:pass:Johnson Li:2: : : :
+a111:pass:Khan Brebecki:3: : : : 
+a112:pass:Tim Parra:3: : : :
+a113:pass:Jack Costa:3: : : :

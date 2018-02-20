@@ -1,0 +1,9 @@
+Bachelor of Science:BSC1200:COSC1000
+Bachelor of Science:BSC1200:COSC2000
+Bachelor of Science:BSC1200:COSC3000
+Bachelor of Science:BSC1200:COSC4000
+Bachelor of IT:BIT1024:ISYS1000
+Bachelor of IT:BIT1024:ISYS2000
+Bachelor of IT:BIT1024:ISYS3000
+Bachelor of IT:BIT1024:ISYS4000
+

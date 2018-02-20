@@ -1,0 +1,8 @@
+Advanced Programming Techniques:COSC1000:Learn C+ Program:150:0:0: : 
+Computing Theory:COSC2000:Learn the theory to the computer system:150:0:0: :
+Software Engineering Fundamentals:COSC3000:Develop java projects:200:0:0: :
+Database Concepts:ISYS1000:Learn SQL programming:100:0:0: :
+Web Programming:ISYS2000:Learn coding about web:100:0:0: :
+Discrete Structures in Computing:ISYS3000:Learn advanced math:200:0:0: :
+Programming Techniques:COSC4000:Learn java programming:150:0:0: : 
+Introduction to Programming Systems and Platform:ISYS 4000:Learn about computer system and hardware:150:0:0: :
